@@ -1,0 +1,11 @@
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\bin\Debug\Tut8_question1.exe.config
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\bin\Debug\Tut8_question1.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\bin\Debug\Tut8_question1.pdb
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.csproj.AssemblyReference.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.Form1.resources
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.Properties.Resources.resources
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.csproj.GenerateResource.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.csproj.CoreCompileInputs.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\Tut8_question1\obj\Debug\Tut8_question1.pdb
