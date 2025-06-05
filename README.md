@@ -8,6 +8,10 @@
 
 > **Your desktop calculation companion** - A feature-rich calculator built with C# and Windows Forms that combines elegant design with powerful functionality!
 
+## screenshort
+![App Screenshot](./screenshot.png) <!-- Add actual screenshot -->
+---
+
 ## ✨ Features
 
 ### � Basic Operations
